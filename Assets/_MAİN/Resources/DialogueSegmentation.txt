@@ -1,0 +1,14 @@
+Murtaza "This is Line 1"
+"This is Line 2 from Murtaza"
+"This is Line 3 from Murtaza"
+
+narrator "Narrator is speaking now."
+"Narrator is continuing to speak"
+
+Habib "Habib 1"
+"Habib 2"
+
+Murtaza "Murtaza 1"
+"Murtaza 2"
+
+Habib "Line 1{c}Line 2{a}Line 3{a}Line 4"
