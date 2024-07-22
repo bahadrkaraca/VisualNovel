@@ -17,8 +17,7 @@ namespace TESTING
 
         void SendFileToParse()
         {
-            //List<string> lines = FileManager.ReadTextAsset("testFile");
-            List<string> lines = FileManager.ReadTextAsset("DialogueSegmentation");
+            List<string> lines = FileManager.ReadTextAsset("testFile");
 
             foreach (string line in lines)
             {
