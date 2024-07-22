@@ -1,14 +1,23 @@
-Murtaza "This is Line 1"
-"This is Line 2 from Murtaza"
-"This is Line 3 from Murtaza"
+Ali "Merhaba Ayşe,{a} nasılsın?{a} Uzun zamandır görüşemedik."
 
-narrator "Narrator is speaking now."
-"Narrator is continuing to speak"
+Ayşe "Merhaba Ali,{a} iyiyim,{a} teşekkür ederim.{c} Sen nasılsın?{a} Gerçekten de uzun zaman oldu."
 
-Habib "Habib 1"
-"Habib 2"
+Ali "Ben de iyiyim,{a} sağ ol.{c} Ne yapıyorsun bu aralar?{a} İşler nasıl gidiyor?"
 
-Murtaza "Murtaza 1"
-"Murtaza 2"
+Ayşe "İşler yoğun ama keyifli.{a} Yeni bir projeye başladım,{a} çok heyecan verici.{c} Sen neler yapıyorsun?"
 
-Habib "Line 1{c}Line 2{a}Line 3{a}Line 4"
+Ali "Ben de yeni bir hobi edindim,{a} resim yapmaya başladım.{c} İlk başlarda zorlandım ama şimdi çok keyif alıyorum."
+
+Ayşe "Harika!{c} Sanat insanı gerçekten rahatlatıyor.{a} Bir ara yaptıklarını görmek isterim."
+
+Ali "Tabii,{a} memnuniyetle gösteririm.{c} Senin de projelerini dinlemek isterim.{a} Bir gün buluşup detaylı konuşalım mı?"
+
+Ayşe "Kesinlikle,{a} çok sevinirim.{c} Bu hafta sonu uygun musun?"
+
+Ali "Evet,{a} hafta sonu uygunum.{a} O zaman cumartesi günü görüşelim mi?"
+
+Ayşe "Tamam,{a} cumartesi günü buluşalım.{a} Sabırsızlanıyorum."
+
+Ali "Ben de!{a} Görüşmek üzere Ayşe."
+
+Ayşe "Görüşürüz Ali."
