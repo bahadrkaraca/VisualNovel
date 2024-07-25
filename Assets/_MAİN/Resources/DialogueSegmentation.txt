@@ -1,10 +1,11 @@
 
 
 
-Murtaza as ??? "Selamun AleykÃ¼m"
 
-Murtaza as ??? at 1:0 "Selamun AleykÃ¼m"
+Murtaza "Müzik çal hýrbo!!" playSong("Funky Beets" -v 0.75 -p 1), setMood(chill)
 
-Murtaza at 0.5:0.5 as The Girl "Selamun AleykÃ¼m"
+Habib "Bok gibi müzik amk." playVoice ("e_d1_v2" -v 1.5), setBackground(Room1 -t "Diagonal Lines" -s 3.5)
 
-Murtaza as ??? [0:Angle1, 1: happy] at 0 "Selamun AleykÃ¼m"
+setAccomplishment("A Legendary Boombox" true), setCLI(Elen 0:Angle1 1:Intrigued -s 2.3 -l true)
+
+showScene(false),StopMusic(all ~s 1.5)

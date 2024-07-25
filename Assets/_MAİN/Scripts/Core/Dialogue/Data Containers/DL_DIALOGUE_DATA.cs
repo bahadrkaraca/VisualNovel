@@ -7,8 +7,6 @@ public class DL_DIALOGUE_DATA
     public List<DIALOGUE_SEGMENT> segments;
     private const string segmentIdentifierPattern = @"\{[ca]\}|\{w[ca]\s\d*\.?\d*\}";
 
-    public bool hasDialogue => segments.Count > 0;
-
     public DL_DIALOGUE_DATA(string ramDialogue)
     {
         segments = RipSegments(ramDialogue);
