@@ -1,11 +1,11 @@
 
 print_1p("This is a command running straight from our dialogue file!")
 
-Murtaza "Sola git ve sonra saða" print_1p("Start Moving"), [wait]moveCharDemo(left), [wait]moveCharDemo(right), print_1p("Done Moving")
+Murtaza "Sola git ve sonra saÄŸa" print_1p("Start Moving"), [wait]moveCharDemo(left), [wait]moveCharDemo(right), print_1p("Done Moving")
 
-Murtaza "Müzik çal hýrbo!!" playSong("Funky Beets" -v 0.75 -p 1), setMood(chill)
+Murtaza "MÃ¼zik Ã§al hÄ±rbo!!" playSong("Funky Beets" -v 0.75 -p 1), setMood(chill)
 
-Habib "Bok gibi müzik amk." playVoice ("e_d1_v2" -v 1.5), setBackground(Room1 -t "Diagonal Lines" -s 3.5)
+Habib "Bok gibi mÃ¼zik amk." playVoice ("e_d1_v2" -v 1.5), setBackground(Room1 -t "Diagonal Lines" -s 3.5)
 
 setAccomplishment("A Legendary Boombox" true), setCLI(Elen 0:Angle1 1:Intrigued -s 2.3 -l true)
 
