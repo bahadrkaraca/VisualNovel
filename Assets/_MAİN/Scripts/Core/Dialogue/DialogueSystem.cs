@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,9 @@ namespace DIALOGUE
 {
     public class DialogueSystem : MonoBehaviour
     {
+        [SerializeField]private DialogueSystemConfigurationSO _config;
+        public DialogueSystemConfigurationSO config => _config;
+
         public DialogueContainer dialogueContainer = new DialogueContainer();
         private ConversationManager conversationManager;
         private TextArchitect architect;

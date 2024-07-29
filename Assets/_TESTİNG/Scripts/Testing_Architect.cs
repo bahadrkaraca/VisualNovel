@@ -42,7 +42,7 @@ namespace TESTING
             if (Input.GetKeyDown(KeyCode.S))
                 architect.Stop();
 
-            string longLine = "Disarida yagmur yagiyordu ve cam üzerinde ince damlalar olusturuyordu. Sokakta yürüyen insanlar semsiyelerini açti, bazilari hizla yürümeye çalisti. Arabalarin lastikleri su birikintilerinden geçerken çikan sesler sokakta yankilaniyordu.";
+            //string longLine = "Disarida yagmur yagiyordu ve cam üzerinde ince damlalar olusturuyordu. Sokakta yürüyen insanlar semsiyelerini açti, bazilari hizla yürümeye çalisti. Arabalarin lastikleri su birikintilerinden geçerken çikan sesler sokakta yankilaniyordu.";
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 if (architect.isBuilding)
